@@ -1,0 +1,19 @@
+#For this exercise, I will be using numbers 1-100.
+
+numbers = [*range(1, 101, 1)]
+
+for value in (numbers):
+#converted value to string in order to retrieve last digit. 
+#Last digits can also be retrieved by using % but I found str() easier to use as at code writing time.
+
+    if (str(value)[-1]) in str([4,5,6,7,8,9,0]):
+        print (f'{value}th.')
+        
+    if (str(value)[-1]) == str(1):
+        print(f'{value}st.')
+        
+    if (str(value)[-1]) == str(2):
+        print(f'{value}nd.')
+        
+    if (str(value)[-1]) == str(3):
+        print(f'{value}rd.')
