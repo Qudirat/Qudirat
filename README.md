@@ -1,7 +1,4 @@
- Hi, I’m @Qudirat
- I’m interested in data analytics
- I’m currently learning python and sql. I will start on R soon!
- I’m looking to collaborate on data analytics projects
+ Hi, I’m @Qudirat. A data enthusiast currently working towards a masters degree in Business Information Systems and Analytics. I am interested in data analytics, so I am learning Python and SQL. I am proficient in Excel and can translate insights from data analysis into business opportunities. 
 
 
 <!---
